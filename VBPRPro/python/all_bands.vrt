@@ -1,0 +1,85 @@
+<VRTDataset rasterXSize="1248" rasterYSize="996">
+  <SRS>LOCAL_CS["unnamed",GEOGCS["unknown",DATUM["unknown",SPHEROID["unretrievable - using WGS84",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT[,0.0174532925199433]],UNIT["unknown",1]]</SRS>
+  <GeoTransform> 4.7506000000000000e+005, 1.0000000000000000e+001, 0.0000000000000000e+000, 6.0423000000000000e+006, 0.0000000000000000e+000,-1.0000000000000000e+001</GeoTransform>
+  <VRTRasterBand dataType="UInt16" band="1">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">E:\Downscaling\011834625010_01\S2\D2-10\SUB_L2A_T11UMA_20170811T185921_B02_10m.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1248" RasterYSize="996" DataType="UInt16" BlockXSize="1248" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+      <DstRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="2">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">E:\Downscaling\011834625010_01\S2\D2-10\SUB_L2A_T11UMA_20170811T185921_B03_10m.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1248" RasterYSize="996" DataType="UInt16" BlockXSize="1248" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+      <DstRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="3">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">E:\Downscaling\011834625010_01\S2\D2-10\SUB_L2A_T11UMA_20170811T185921_B04_10m.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1248" RasterYSize="996" DataType="UInt16" BlockXSize="1248" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+      <DstRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="4">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">E:\Downscaling\011834625010_01\S2\D2-10\SUB_L2A_T11UMA_20170811T185921_B05_10m.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1248" RasterYSize="996" DataType="UInt16" BlockXSize="1248" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+      <DstRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="5">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">E:\Downscaling\011834625010_01\S2\D2-10\SUB_L2A_T11UMA_20170811T185921_B06_10m.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1248" RasterYSize="996" DataType="UInt16" BlockXSize="1248" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+      <DstRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="6">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">E:\Downscaling\011834625010_01\S2\D2-10\SUB_L2A_T11UMA_20170811T185921_B07_10m.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1248" RasterYSize="996" DataType="UInt16" BlockXSize="1248" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+      <DstRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="7">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">E:\Downscaling\011834625010_01\S2\D2-10\SUB_L2A_T11UMA_20170811T185921_B8A_10m.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1248" RasterYSize="996" DataType="UInt16" BlockXSize="1248" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+      <DstRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="8">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">E:\Downscaling\011834625010_01\S2\D2-10\SUB_L2A_T11UMA_20170811T185921_B11_10m.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1248" RasterYSize="996" DataType="UInt16" BlockXSize="1248" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+      <DstRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="UInt16" band="9">
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">E:\Downscaling\011834625010_01\S2\D2-10\SUB_L2A_T11UMA_20170811T185921_B12_10m.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="1248" RasterYSize="996" DataType="UInt16" BlockXSize="1248" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+      <DstRect xOff="0" yOff="0" xSize="1248" ySize="996" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
